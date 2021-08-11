@@ -40,6 +40,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" /></p>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/></p>
 
-## Music I like
+## Music I am listen to right now
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
