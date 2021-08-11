@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/ShoraySinghal">
   <img align="left" alt="Shoray Singhal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,7 +22,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-**Languages and Tools (More coming up soon): **  
+## Languages and Tools (More coming up soon): 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -34,11 +34,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
+## My GitHub Stats  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" /></p>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/></p>
 
- My GitHub Stats
+## Music I like
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" />
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/>
-<p align="center> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default" />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
