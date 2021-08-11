@@ -14,12 +14,14 @@
 <br />
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<p ><strong>
 Hi, I'm Shoray, a second year student majoring in Artifical Intelligence at the Indian Institute of Information Technology, Lucknow.
 I am a passionate Python lover and front-end Dev. I love to learn to learn new technoligies and am able to so very quickly. I pay my undivided attention on my projects and don't quit until they are finished.
 I am just starting to contribute on other projects and hope to learn a lot from the community in the future.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+  </strong>
+</p>
 
 
 ## Languages and Tools (More coming up soon): 
