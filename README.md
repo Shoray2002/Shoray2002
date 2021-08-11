@@ -13,7 +13,8 @@
 
 <br />
 
-Hi, I'm [Shoray](https://github.com/shoray2002), a second year student majoring in Artifiical Intelligence at the Indian Institute of Information Technology, Lucknow.
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+Hi, I'm Shoray, a second year student majoring in Artifical Intelligence at the Indian Institute of Information Technology, Lucknow.
 I am a passionate Python lover and front-end Dev. I love to learn to learn new technoligies and am able to so very quickly. I pay my undivided attention on my projects and don't quit until they are finished.
 I am just starting to contribute on other projects and hope to learn a lot from the community in the future.
 
@@ -36,4 +37,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
  My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=gotham" alt="Shoray2002" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" />
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/>
+<p align="center> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
