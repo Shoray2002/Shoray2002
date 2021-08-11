@@ -36,6 +36,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoray2002&show_icons=true&theme=vision-friendly-dark"/></p>
+
 ## My GitHub Stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" /></p>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/></p>
