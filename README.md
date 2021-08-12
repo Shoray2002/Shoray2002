@@ -12,10 +12,13 @@
 <a href="https://t.me/tomyred20">
   <img align="left" alt="Shoray's Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
 </a>
+<br>
+
+<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002)
 
-<br />
+<br>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <p ><strong>
