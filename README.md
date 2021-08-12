@@ -9,6 +9,10 @@
   <img align="left" alt="Shoray's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
+<a href="https://t.me/tomyred20">
+  <img align="left" alt="Shoray's Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002)
 
 <br />
