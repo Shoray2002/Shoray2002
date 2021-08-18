@@ -49,8 +49,8 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/kerbal-space-program/kerbal-space-program.png"></code>
 <code><img height="40" src="https://image.flaticon.com/icons/png/512/2111/2111644.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/npm/npm.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/main/topics/pip/pip.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/main/topics/pip/pip.png"></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoray2002&show_icons=true&theme=vision-friendly-dark"/></p>
 
