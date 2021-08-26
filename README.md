@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049" />
 <a href="https://twitter.com/ShoraySinghal">
   <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
