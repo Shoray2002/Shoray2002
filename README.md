@@ -59,5 +59,5 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/></p>
 
 ## Music I am listen to right now
-<p align="center"> <img  src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
+<p align="center"> <img height="500" src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
