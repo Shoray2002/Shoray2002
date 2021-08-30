@@ -1,17 +1,23 @@
 # Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049" />
-<a href="https://twitter.com/ShoraySinghal">
-  <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://lordshoray.is-a.dev/">
+  <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />
 </a>
 <a href="https://www.linkedin.com/in/shoray-singhal-b73533191/">
   <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
+</a> 
+<a href="https://t.me/tomyred20">
+  <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
+</a>
+<a href="https://twitter.com/ShoraySinghal">
+  <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+ 
 <a href="https://www.facebook.com/shoray.ssa/">
   <img align="left" alt="Shoray's Facebook" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-<a href="https://t.me/tomyred20">
-  <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
-</a>
+
+
 <br>
 
 <br>
