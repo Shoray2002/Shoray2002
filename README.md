@@ -1,4 +1,4 @@
-# Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049" />
+# Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049"/>
 <a href="https://lordshoray.is-a.dev/" >
   <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />
 </a>
