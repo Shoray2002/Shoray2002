@@ -15,7 +15,6 @@
 <a href="https://www.facebook.com/shoray.ssa/">
   <img align="left" alt="Shoray's Facebook" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
 <br>
 
 <br>
