@@ -18,7 +18,7 @@
 <br>
 
 <br>
-<img align="left" alt="Visitor Badge" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002" />
+<img align="left" alt="Visitor Badge" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002" />
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002) -->
 
