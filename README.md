@@ -11,7 +11,6 @@
 <a href="https://twitter.com/ShoraySinghal">
   <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
- 
 <a href="https://www.facebook.com/shoray.ssa/">
   <img align="left" alt="Shoray's Facebook" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
