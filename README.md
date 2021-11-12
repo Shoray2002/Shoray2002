@@ -48,6 +48,8 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://i.ibb.co/gjvtX24/kisspng-go-programming-language-computer-programming-progr-programming-language-5ae6e801330098-65455.png"></code>
+
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/kivy/kivy.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/covid-19/covid-19.png"></code>
