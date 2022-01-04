@@ -26,7 +26,7 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/KILLinefficiency/KILLinefficiency/master/resources/happy_computer.webp" />
 <p ><strong>
 Hi, I'm Shoray, a second-year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
-I am a passionate lover of Python and front-end Dev. I love to learn new technoloigies and am able to so very quickly. I pay my undivided attention on my projects and don't quit until they are finished.
+I am a passionate lover of Python and front-end Dev. I love to learn new technologies and am able to so very quickly. I pay my undivided attention on my projects and don't quit until they are finished.
 I am just starting to contribute on other projects and hope to learn a lot from the community in the future.
 
   </strong>
@@ -67,6 +67,6 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Shoray2002&theme=react-dark&hide_border=true&area=true"/></p>
 <p align="center"> <img src="https://github.com/Shoray2002/Shoray2002/blob/main/github-user-contribution.svg"/></p>
 
-## Music I am listen to right now
+## Music I am listening to right now
 <p align="center"> <img height="500" src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
