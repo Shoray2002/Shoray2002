@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/shoray-singhal-b73533191/">
   <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-<a href="https://t.me/tomyred20">
+<a href="https://t.me/lordshorya">
   <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
 </a>
 <a href="https://twitter.com/ShoraySinghal">
