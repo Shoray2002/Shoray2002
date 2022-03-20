@@ -71,3 +71,10 @@ I am a front-end Dev and fiverr freelancer. I love to learn new technologies and
 ## Music I am listening to right now
 <p align="center"> <img height="500" src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
+## Daily Random Comic Strip
+<!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/consensus_time.png" />
+</a>
+</p>
