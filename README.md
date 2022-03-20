@@ -1,6 +1,6 @@
 # Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049"/>
 <a href="https://lordshoray.is-a.dev/" >
-  <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />
+  <img align="left" alt="Shoray's Telegram" width="25px" src="https://user-images.githubusercontent.com/76423272/159181464-f6a24a81-7b8b-424c-8d18-0712f17ef7bb.png" />
 </a>
 <a href="https://www.fiverr.com/lordshorya">
   <img align="left" alt="Shoray's Fiverr" width="25px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
@@ -9,25 +9,21 @@
   <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 <a href="https://t.me/lordshorya">
-  <img align="left" alt="Shoray's Telegram" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />
+  <img align="left" alt="Shoray's Twitter" width="25px" src="https://user-images.githubusercontent.com/76423272/159183698-a0acc87e-7d0b-47bf-8d69-936130f9fa6e.png" />
 </a>
 <a href="https://twitter.com/ShoraySinghal">
-  <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shoray's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/shoray.ssa/">
-  <img align="left" alt="Shoray's Facebook" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Shoray's Facebook" width="25px" src="https://user-images.githubusercontent.com/76423272/159183576-b63d13c3-ddd7-4b66-bae8-de850e54f67b.svg" />
 </a>
 
 
-
 <br>
-
+<!-- 
 <br>
 <img align="left" alt="Visitor Badge" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002" />
-<!-- 
-![](https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002) -->
-
-<br>
+<br> -->
 
 <img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 <p ><strong>
@@ -50,6 +46,7 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <code><img height="40" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-thumbnail.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/sass/sass.png"></code>
 <code><img height="40" src="https://img.stackshare.io/service/5883/preview.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/76423272/159183844-37d251d2-a3f7-44bf-9f21-86a7471d00fe.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/508/316/png-clipart-flask-by-example-python-web-framework-bottle-bottle-white-black-thumbnail.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/chromium/chromium.png"></code>
@@ -61,7 +58,6 @@ I am just starting to contribute on other projects and hope to learn a lot from 
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/kivy/kivy.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/covid-19/covid-19.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/png/512/2111/2111644.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/npm/npm.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/pip/pip.png"></code>
