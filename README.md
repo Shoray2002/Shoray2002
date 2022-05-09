@@ -25,7 +25,7 @@
 <img align="left" alt="Visitor Badge" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002" />
 <br> -->
 
-<img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Shoray2002/Shoray2002/main/giphy.gif" />
 <p ><strong>
 Hi, I'm Shoray, a second-year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
 I am a front-end Dev and fiverr freelancer. I love to learn new technologies and interact with clients and personnel in the industry. I pay my undivided attention on my projects and don't quit until they are finished.
