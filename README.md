@@ -20,10 +20,6 @@
 
 
 <br>
-<!-- 
-<br>
-<img align="left" alt="Visitor Badge" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=shoray2002.shoray2002" />
-<br> -->
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Shoray2002/Shoray2002/main/giphy.gif" />
 <p ><strong>
