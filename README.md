@@ -1,4 +1,8 @@
-# Hi there <img src="https://www.animatedimages.org/data/media/81/animated-hand-image-0049.gif" height="35px" border="-5" alt="animated-hand-image-0049"/>
+
+
+
+![hello_there](https://user-images.githubusercontent.com/76423272/172930927-766f3036-4a6b-412e-a681-7cdf64cd46b8.png)
+<hr>
 <a href="https://lordshoray.is-a.dev/" >
   <img align="left" alt="Shoray's Telegram" width="25px" src="https://user-images.githubusercontent.com/76423272/159181464-f6a24a81-7b8b-424c-8d18-0712f17ef7bb.png" />
 </a>
