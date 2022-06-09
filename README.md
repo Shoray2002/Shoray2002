@@ -7,7 +7,7 @@
 <a href="https://www.fiverr.com/lordshorya">
   <img align="left" alt="Shoray's Fiverr" width="25px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shoray-singhal-b73533191/">
+<a href="https://www.linkedin.com/in/shoray-singhal/">
   <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 <a href="https://t.me/lordshorya">
