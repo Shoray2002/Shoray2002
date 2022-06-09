@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Shoray2002/Shoray2002/main/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://c.tenor.com/NiBD3Jj07AYAAAAC/monkey-laptop.gif" />
 <p ><strong>
 Hi, I'm Shoray, a pre-final year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
 I am a front-end Dev and fiverr freelancer. I love to learn new technologies and interact with clients and personnel in the industry. I pay my undivided attention on my projects and don't quit until they are finished.
@@ -80,11 +80,12 @@ I am a front-end Dev and fiverr freelancer. I love to learn new technologies and
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoray2002&show_icons=true&theme=vision-friendly-dark"/></p>
 
 ## My GitHub Stats  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark" alt="Shoray2002" /></p>
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoray2002&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Shoray2002" /><img src="http://github-readme-streak-stats.herokuapp.com?user=Shoray2002&theme=vision-friendly-dark&hide_border=true"/>
+</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoray2002&show_icons=true&theme=vision-friendly-dark&hide_border=true"/></p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Shoray2002&theme=react-dark&hide_border=true&area=true"/></p>
 <p align="center"> <img src="https://github.com/Shoray2002/Shoray2002/blob/output/github-contribution-grid-snake.svg"/></p>
 
