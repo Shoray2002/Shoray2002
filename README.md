@@ -4,9 +4,6 @@
 <a href="https://lordshoray.is-a.dev/" >
   <img align="left" alt="Shoray's Telegram" width="25px" src="https://user-images.githubusercontent.com/76423272/159181464-f6a24a81-7b8b-424c-8d18-0712f17ef7bb.png" />
 </a>
-<a href="https://www.fiverr.com/lordshorya">
-  <img align="left" alt="Shoray's Fiverr" width="25px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
-</a>
 <a href="https://www.linkedin.com/in/shoray-singhal/">
   <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
