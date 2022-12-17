@@ -20,7 +20,7 @@
 
 <br>
 
-<img align="right" height="250" width="375" alt="" src="https://upcdn.io/W142hJk/thumbnail/demo/4mnhX4YwDU.png.crop" />
+<img align="right" height="250" width="375" alt="" src="https://media.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
 <p ><strong>
 Hi, I'm Shoray, a pre-final year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
 I am a front-end Dev and fiverr freelancer. I love to learn new technologies and interact with clients and personnel in the industry. I pay my undivided attention on my projects and don't quit until they are finished.
