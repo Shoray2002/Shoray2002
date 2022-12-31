@@ -91,6 +91,7 @@ I am a front-end Dev and fiverr freelancer. I love to learn new technologies and
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Shoray2002&theme=react-dark&hide_border=true&area=true"/></p>
 <p align="center"> <img src="https://github.com/Shoray2002/Shoray2002/blob/output/github-contribution-grid-snake.svg"/></p>
 
+
 ## Music I am listening to right now
 <p align="center"> <img height="500" src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
 
