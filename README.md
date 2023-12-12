@@ -5,31 +5,20 @@
   <img align="left" alt="Shoray's Telegram" width="25px" src="https://user-images.githubusercontent.com/76423272/159181464-f6a24a81-7b8b-424c-8d18-0712f17ef7bb.png" />
 </a>
 <a href="https://www.linkedin.com/in/shoray-singhal/">
-  <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831590218/linkedin_logo?e=1710374400&v=beta&t=nwehz-T4oKXmlQvGHKME54Pi5eLZN0-Oqh72iPFkggc" />
 </a> 
 <a href="https://t.me/lordshorya">
   <img align="left" alt="Shoray's Twitter" width="25px" src="https://user-images.githubusercontent.com/76423272/159183698-a0acc87e-7d0b-47bf-8d69-936130f9fa6e.png" />
 </a>
-<a href="https://twitter.com/ShoraySinghal">
-  <img align="left" alt="Shoray's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/shoray.ssa/">
-  <img align="left" alt="Shoray's Facebook" width="25px" src="https://user-images.githubusercontent.com/76423272/159183576-b63d13c3-ddd7-4b66-bae8-de850e54f67b.svg" />
-</a>
-
-
-
-
-
 
 
 <br>
 
-<img align="right" height="250" width="375" alt="" src="https://media.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
-<p ><strong>
+<img align="right" height="250" width="375" alt="" src="https://64.media.tumblr.com/0d8e767123ebd3b1cf2870ed0433a4a0/tumblr_inline_odd3fcGwAw1raprkq_400.gifv" />
+<p><strong>
 Hi, I'm Shoray, a pre-final year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
-I am a front-end Dev and fiverr freelancer. I love to learn new technologies and interact with clients and personnel in the industry. I pay my undivided attention on my projects and don't quit until they are finished.
-  </strong>
+I have been programming for nearly 5 years in both software and website development. I have worked with many clients while freelancing on Fiverr. I have interests in many fields and I am currently working full time with an amazing team at Snaptrude on Algorithm Development
+</strong>
 </p>
 
 ## Languages and Tools
