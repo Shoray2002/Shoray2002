@@ -77,11 +77,10 @@ I have been programming for nearly 5 years in both software and website developm
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoray2002&show_icons=true&theme=vision-friendly-dark&hide_border=true"/></p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Shoray2002&theme=react-dark&hide_border=true&area=true"/></p>
-<p align="center"> <img src="https://github.com/Shoray2002/Shoray2002/blob/output/github-contribution-grid-snake.svg"/></p>
+<!-- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Shoray2002&theme=react-dark&hide_border=true&area=true"/></p> -->
+<!-- <p align="center"> <img src="https://github.com/Shoray2002/Shoray2002/blob/output/github-contribution-grid-snake.svg"/></p> -->
 
 
 ## Music I am listening to right now
 <p align="center"> <img height="500" src="https://spotify-github-profile.vercel.app/api/view?uid=31dranewycvjoroiakauvojjs5iq&cover_image=true&theme=default"/></p>
-
 </p>
