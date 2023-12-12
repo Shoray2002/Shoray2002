@@ -16,7 +16,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://64.media.tumblr.com/0d8e767123ebd3b1cf2870ed0433a4a0/tumblr_inline_odd3fcGwAw1raprkq_400.gifv" />
 <p><strong>
-Hi, I'm Shoray, a pre-final year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
+Hi, I'm Shoray, a final year student majoring in Artificial Intelligence at the Indian Institute of Information Technology, Lucknow.
 I have been programming for nearly 5 years in both software and website development. I have worked with many clients while freelancing on Fiverr. I have interests in many fields and I am currently working full time with an amazing team at Snaptrude on Algorithm Development
 </strong>
 </p>
