@@ -1,7 +1,6 @@
 
 <img align="right" height="250" width="375" alt="" src="https://64.media.tumblr.com/0d8e767123ebd3b1cf2870ed0433a4a0/tumblr_inline_odd3fcGwAw1raprkq_400.gifv" />
-<p><strong>
-Hi there, I’m Shoray, an undergraduate from the Indian Institute of Information Technology, Lucknow. I’ve been programming for almost five years now and have mastered all its challenges. Additionally, I’ve been an active freelancer on Fiverr for over three years and have collaborated with numerous clients worldwide. I have diverse interests and am currently working full-time with an incredible team at Snaptrude, where I’m involved in algorithm development.
+<p><strong>I love code (a lot)
 </strong>
 </p>
 <a href="https://t.me/lordshorya">
